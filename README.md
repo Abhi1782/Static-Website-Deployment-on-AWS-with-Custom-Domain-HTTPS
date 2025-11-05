@@ -66,8 +66,9 @@ This project demonstrates hosting a static website on an Ubuntu Linux server usi
 
   Created a Hosted Zone for the domain
   Added:
-        1) ✅ A Record → Public IP of EC2
-        2) ✅ CNAME Record → For www redirection
+        
+         ✅ A Record → Public IP of EC2
+         ✅ CNAME Record → For www redirection
 
 ## 📌 These Route 53 records were copied and added to the Hosting Provider DNS
 ➡ enables the domain to resolve correctly to the AWS server ✅
