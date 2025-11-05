@@ -104,3 +104,15 @@ This project demonstrates:
 
 ✅ “Project Successfully Completed — A secure, production-ready static website deployed on AWS with custom domain & SSL, demonstrating real-world cloud hosting skills.”
  
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 🎉 Thank You!
+
+# ✨ Thank you for exploring this project!
+
+This deployment marks the successful completion of my Static Website Hosting on AWS (Ubuntu + Nginx + Route 53 + SSL) — demonstrating real-world cloud implementation, DNS           configuration, and website security using HTTPS.
+
+# 🌍 I learned a lot about web hosting, domain mapping, and SSL encryption — and this project helped me strengthen my practical AWS cloud skills.
+
+#💡 Continuous learning never stops — new projects are on the way! 🚀
+
