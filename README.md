@@ -66,7 +66,7 @@ This project demonstrates hosting a static website on an Ubuntu Linux server usi
   1) Auto-configured Nginx for HTTPS
   2) Auto-renewal enabled
 
-  Verify renewal:
+   Verify renewal:
 
     sudo certbot renew --dry-run
  
