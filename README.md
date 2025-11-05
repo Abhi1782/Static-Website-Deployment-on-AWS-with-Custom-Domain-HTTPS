@@ -32,7 +32,7 @@ This project demonstrates hosting a static website on an Ubuntu Linux server usi
     sudo systemctl start nginx
     sudo systemctl enable nginx
 
-# Place your website files in:   
+## Place your website files in:   
 
     /var/www/html/
 
@@ -53,7 +53,7 @@ This project demonstrates hosting a static website on an Ubuntu Linux server usi
   ✅ A Record → Public IP of EC2
   ✅ CNAME Record → For www redirection
 
-# 📌 These Route 53 records were copied and added to the Hosting Provider DNS
+## 📌 These Route 53 records were copied and added to the Hosting Provider DNS
 ➡ enables the domain to resolve correctly to the AWS server ✅
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
