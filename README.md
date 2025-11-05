@@ -25,6 +25,18 @@ This project demonstrates hosting a static website on an Ubuntu Linux server usi
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+<img width="1920" height="1030" alt="Screenshot (475)" src="https://github.com/user-attachments/assets/169cd3be-f5f1-48b2-9370-5c44635d8eb4" />
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<img width="1920" height="1022" alt="Screenshot (476)" src="https://github.com/user-attachments/assets/12041b39-d6a2-4c26-a750-0ebcf84f96e4" />
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<img width="1920" height="1019" alt="Screenshot (477)" src="https://github.com/user-attachments/assets/daea48dd-3af6-4e2b-8ef4-7b9b2c505a3f" />
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # 2️⃣ Install & Configure Nginx Web Server
 
     sudo apt update
@@ -63,10 +75,10 @@ This project demonstrates hosting a static website on an Ubuntu Linux server usi
     sudo apt install certbot python3-certbot-nginx -y
     sudo certbot --nginx -d cloudtechlearner.online -d www.cloudtechlearner.online
 
-  1) Auto-configured Nginx for HTTPS
-  2) Auto-renewal enabled
+   1) Auto-configured Nginx for HTTPS
+   2) Auto-renewal enabled
 
-  Verify renewal:
+   Verify renewal:
 
     sudo certbot renew --dry-run
  
