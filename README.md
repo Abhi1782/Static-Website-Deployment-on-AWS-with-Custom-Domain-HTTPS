@@ -76,11 +76,11 @@ This project demonstrates hosting a static website on an Ubuntu Linux server usi
  
  # ✅ Final Output
 
-   ✔ Static website is fully live, secured, and accessible globally
-   ✔ Domain cloudtechlearner.online successfully mapped to AWS
-   ✔ SSL certificate installed (HTTPS 🔐)
-   ✔ Performance & reliability ensured with AWS infrastructure
-   ✔ Hosting integration completed — DNS records from Route 53 placed in the hosting provider for domain resolution
+     ✔ Static website is fully live, secured, and accessible globally
+     ✔ Domain cloudtechlearner.online successfully mapped to AWS
+     ✔ SSL certificate installed (HTTPS 🔐)
+     ✔ Performance & reliability ensured with AWS infrastructure
+     ✔ Hosting integration completed — DNS records from Route 53 placed in the hosting provider for domain resolution
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
