@@ -66,8 +66,8 @@ This project demonstrates hosting a static website on an Ubuntu Linux server usi
 
   Created a Hosted Zone for the domain
   Added:
-        ✅ A Record → Public IP of EC2
-        ✅ CNAME Record → For www redirection
+        1) ✅ A Record → Public IP of EC2
+        2) ✅ CNAME Record → For www redirection
 
 ## 📌 These Route 53 records were copied and added to the Hosting Provider DNS
 ➡ enables the domain to resolve correctly to the AWS server ✅
@@ -103,21 +103,22 @@ This project demonstrates hosting a static website on an Ubuntu Linux server usi
 <img width="1200" height="631" alt="Certbot" src="https://github.com/user-attachments/assets/2bbd599e-4df2-4341-9c5a-e006920fe6c2" />
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
  ✅ Website now fully secure via HTTPS
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
-<img width="1024" height="1024" alt="ChatGPT Image Nov 5, 2025, 08_13_59 PM" src="https://github.com/user-attachments/assets/8ed86728-59a3-4a79-aada-d6660dfd50ac" />
+<img width="1024" height="613" alt="ChatGPT Image Nov 5, 2025, 08_13_59 PM" src="https://github.com/user-attachments/assets/dd5b412a-ed39-46dc-8987-e2f44c96d84a" />
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  # ✅ Final Output
 
-     ✔ Static website is fully live, secured, and accessible globally
-     ✔ Domain cloudtechlearner.online successfully mapped to AWS
-     ✔ SSL certificate installed (HTTPS 🔐)
-     ✔ Performance & reliability ensured with AWS infrastructure
-     ✔ Hosting integration completed — DNS records from Route 53 placed in the hosting provider for domain resolution
+    ✔ Static website is fully live, secured, and accessible globally
+    ✔ Domain cloudtechlearner.online successfully mapped to AWS
+    ✔ SSL certificate installed (HTTPS 🔐)
+    ✔ Performance & reliability ensured with AWS infrastructure
+    ✔ Hosting integration completed — DNS records from Route 53 placed in the hosting provider for domain resolution
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
