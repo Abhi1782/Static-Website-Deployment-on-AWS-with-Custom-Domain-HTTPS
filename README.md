@@ -33,10 +33,6 @@ This project demonstrates hosting a static website on an Ubuntu Linux server usi
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img width="1920" height="1019" alt="Screenshot (477)" src="https://github.com/user-attachments/assets/daea48dd-3af6-4e2b-8ef4-7b9b2c505a3f" />
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 # 2️⃣ Install & Configure Nginx Web Server
 
     sudo apt update
@@ -50,11 +46,19 @@ This project demonstrates hosting a static website on an Ubuntu Linux server usi
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+<img width="1920" height="1019" alt="Screenshot (477)" src="https://github.com/user-attachments/assets/daea48dd-3af6-4e2b-8ef4-7b9b2c505a3f" />
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # 3️⃣ Purchase & Configure Custom Domain (Hosting Provider)
 
   1) Domain bought from Hostinger
   2) DNS Management initially on Hosting
   3) Added records provided by Route 53 ✅ (Hosting Section added as requested)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<img width="1920" height="1080" alt="Screenshot (485)" src="https://github.com/user-attachments/assets/706d674a-c14a-4c02-a35c-2c1347080d23" />
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -70,6 +74,18 @@ This project demonstrates hosting a static website on an Ubuntu Linux server usi
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+<img width="1920" height="1023" alt="Screenshot (479)" src="https://github.com/user-attachments/assets/c4c90942-bcb3-4bb9-94d2-c33877b2a49c" />
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<img width="1920" height="1080" alt="Screenshot (482)" src="https://github.com/user-attachments/assets/01ff09ca-73b5-4933-a423-ed0a720d23b1" />
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<img width="1920" height="1080" alt="Screenshot (483)" src="https://github.com/user-attachments/assets/0deef639-9284-403e-b863-cce9cb1593d9" />
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # 5️⃣ Enable SSL using Certbot + Let’s Encrypt
 
     sudo apt install certbot python3-certbot-nginx -y
@@ -81,11 +97,20 @@ This project demonstrates hosting a static website on an Ubuntu Linux server usi
    Verify renewal:
 
     sudo certbot renew --dry-run
- 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<img width="1200" height="631" alt="Certbot" src="https://github.com/user-attachments/assets/2bbd599e-4df2-4341-9c5a-e006920fe6c2" />
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  ✅ Website now fully secure via HTTPS
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
+<img width="1024" height="1024" alt="ChatGPT Image Nov 5, 2025, 08_13_59 PM" src="https://github.com/user-attachments/assets/8ed86728-59a3-4a79-aada-d6660dfd50ac" />
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
  # ✅ Final Output
 
      ✔ Static website is fully live, secured, and accessible globally
@@ -93,6 +118,10 @@ This project demonstrates hosting a static website on an Ubuntu Linux server usi
      ✔ SSL certificate installed (HTTPS 🔐)
      ✔ Performance & reliability ensured with AWS infrastructure
      ✔ Hosting integration completed — DNS records from Route 53 placed in the hosting provider for domain resolution
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ <img width="1920" height="1015" alt="Screenshot (488)" src="https://github.com/user-attachments/assets/bbf64f18-aafa-4cad-b220-c3350b400e9c" />
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
