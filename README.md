@@ -4,13 +4,13 @@ This project demonstrates hosting a static website on an Ubuntu Linux server usi
 
 # 📌 Status: ✅ Successfully deployed & publicly accessible
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 🚀 Project Scope / What I Completed
 
 <img width="519" height="171" alt="image" src="https://github.com/user-attachments/assets/e4c867d7-8bc2-4591-b22e-ca24ecb002a3" />
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 📍 Step-By-Step Implementation
 
@@ -23,6 +23,8 @@ This project demonstrates hosting a static website on an Ubuntu Linux server usi
      C) 22 (SSH)
   3) Connect to the server using SSH
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # 2️⃣ Install & Configure Nginx Web Server
 
     sudo apt update
@@ -34,11 +36,15 @@ This project demonstrates hosting a static website on an Ubuntu Linux server usi
 
     /var/www/html/
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # 3️⃣ Purchase & Configure Custom Domain (Hosting Provider)
 
   1) Domain bought from Hostinger
   2) DNS Management initially on Hosting
   3) Added records provided by Route 53 ✅ (Hosting Section added as requested)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 4️⃣ Configure AWS Route 53 DNS
 
@@ -49,6 +55,8 @@ This project demonstrates hosting a static website on an Ubuntu Linux server usi
 
 # 📌 These Route 53 records were copied and added to the Hosting Provider DNS
 ➡ enables the domain to resolve correctly to the AWS server ✅
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 5️⃣ Enable SSL using Certbot + Let’s Encrypt
 
@@ -64,6 +72,7 @@ This project demonstrates hosting a static website on an Ubuntu Linux server usi
  
  ✅ Website now fully secure via HTTPS
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
  # ✅ Final Output
 
@@ -73,13 +82,13 @@ This project demonstrates hosting a static website on an Ubuntu Linux server usi
  ✔ Performance & reliability ensured with AWS infrastructure
  ✔ Hosting integration completed — DNS records from Route 53 placed in the hosting provider for domain resolution
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 📌 Tech Stack Used
 
 <img width="386" height="169" alt="image" src="https://github.com/user-attachments/assets/c7fe12df-5593-4476-bff5-b046ca94f650" />
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 🏁 Conclusion
 
@@ -89,6 +98,7 @@ This project demonstrates:
   3) How to use AWS Route 53 + Hosting DNS
   4) How to secure a server with HTTPS + Firewall
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # ⭐ Final Result Statement
 
