@@ -50,6 +50,47 @@ This project demonstrates hosting a static website on an Ubuntu Linux server usi
 # 📌 These Route 53 records were copied and added to the Hosting Provider DNS
 ➡ enables the domain to resolve correctly to the AWS server ✅
 
+# 5️⃣ Enable SSL using Certbot + Let’s Encrypt
+
+    sudo apt install certbot python3-certbot-nginx -y
+    sudo certbot --nginx -d cloudtechlearner.online -d www.cloudtechlearner.online
+
+  1) Auto-configured Nginx for HTTPS
+  2) Auto-renewal enabled
+
+  Verify renewal:
+
+    sudo certbot renew --dry-run
+ 
+ ✅ Website now fully secure via HTTPS
+
+ 
+ # ✅ Final Output
+
+ ✔ Static website is fully live, secured, and accessible globally
+ ✔ Domain cloudtechlearner.online successfully mapped to AWS
+ ✔ SSL certificate installed (HTTPS 🔐)
+ ✔ Performance & reliability ensured with AWS infrastructure
+ ✔ Hosting integration completed — DNS records from Route 53 placed in the hosting provider for domain resolution
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# 📌 Tech Stack Used
+
+<img width="386" height="169" alt="image" src="https://github.com/user-attachments/assets/c7fe12df-5593-4476-bff5-b046ca94f650" />
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# 🏁 Conclusion
+
+This project demonstrates:
+  1) How to deploy a secure static website
+  2) How to attach a custom domain
+  3) How to use AWS Route 53 + Hosting DNS
+  4) How to secure a server with HTTPS + Firewall
 
 
+# ⭐ Final Result Statement
 
+✅ “Project Successfully Completed — A secure, production-ready static website deployed on AWS with custom domain & SSL, demonstrating real-world cloud hosting skills.”
+ 
