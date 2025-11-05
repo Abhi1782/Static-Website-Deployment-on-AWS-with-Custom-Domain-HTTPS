@@ -52,9 +52,9 @@ This project demonstrates hosting a static website on an Ubuntu Linux server usi
 
 # 3️⃣ Purchase & Configure Custom Domain (Hosting Provider)
 
-  1) Domain bought from Hostinger
-  2) DNS Management initially on Hosting
-  3) Added records provided by Route 53 ✅ (Hosting Section added as requested)
+   1) Domain bought from Hostinger
+   2) DNS Management initially on Hosting
+   3) Added records provided by Route 53 ✅ (Hosting Section added as requested)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
